@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dalal
+- 👋 Hi, I’m @DalalObaid
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Power Bi
 - 📫 How to reach me dal.alharbi688@gmail.com
